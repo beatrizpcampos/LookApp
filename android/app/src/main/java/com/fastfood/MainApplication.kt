@@ -1,4 +1,4 @@
-package com.fastfood
+package com.LookApp
 
 import android.app.Application
 import com.facebook.react.PackageList
